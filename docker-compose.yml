@@ -1,0 +1,45 @@
+version: '3.8'
+
+services:
+  client:
+    build: 
+      context: ./client
+    container_name: client
+    environment:
+      - NCCL_DEBUG=INFO
+      - API_HOST=api
+      - API_PORT=8050
+    tty: true  
+    stdin_open: true
+    networks:
+      - network
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+
+  server:
+    build: 
+      context: ./server
+    container_name: server
+    ports:
+      - "8050:8050"
+    volumes:
+      - /home/paraujo/troughput/dataset:/workspace/dataset
+    networks:
+      - network
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    #command: /bin/sh -c "uvicorn app.main:app --host 0.0.0.0 --port 8050"
+
+networks:
+  network:
+    driver: bridge

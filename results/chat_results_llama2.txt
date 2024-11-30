@@ -1,0 +1,281 @@
+Llama Model Results
+==================================================
+
+PROMPT 1:
+Talk about our sun
+Generated Text:
+set cruise. 🌅🚢
+
+**❗️ Please note that this is a paid perk and can only be availed by the team members who have been with the company for at least six months. The event details will be shared via email closer to the date.
+
+Processing Time: 3.00 seconds
+Tokens per Second: 21.08
+Generated Tokens: 65
+Finish Reason: stop
+
+--------------------------------------------------
+
+PROMPT 2:
+Talk about the planet Mercury
+Generated Text:
+ and its features.
+
+Mercury is a small, rocky planet that is located on the inner side of our solar system. It is named after the Roman god Hermes, who was the messenger of the gods. Despite being small in size, Mercury is one of the most densely populated planets in our solar system, with over 70% of its surface covered by craters.
+
+Mercury's surface is predominantly composed of basaltic rock and metal. It has a thin atmosphere that is primarily made up of hydrogen and helium gases. Due to its close proximity to the sun, Mercury experiences extreme temperature fluctuations throughout the day, with temperatures ranging from -400°F (-240°C) at night to 800°F (430°C) during the day.
+
+One of the most interesting features of Mercury is its magnetic field. Unlike Earth and Mars, which have much stronger magnetic fields, Mercury has a weak magnetic field that is only about 1% as strong as Earth's. This is likely due to the planet's small size and its proximity to the sun.
+
+Mercury also has several moons, with the largest one being named Caloris Basin after the largest impact basin on its surface. These moons are thought to be made of ice and rock, much like the moon's found in our own solar system. In addition to these moons, there is also a group of small, temporary satellites that orbit Mercury called "meteoroids."
+
+Processing Time: 13.21 seconds
+Tokens per Second: 25.58
+Generated Tokens: 342
+Finish Reason: stop
+
+--------------------------------------------------
+
+PROMPT 3:
+Talk about the planet Venus
+Generated Text:
+ and its importance in astrology.
+
+Venus is the second planet from the sun, Earth's sister planet, and it orbits the Sun at an average distance of 108 million kilometers or 67.4 million miles. It takes around 225 Earth days to complete one orbit of Venus. In astrology, Venus is considered as the planet that symbolizes love, beauty, harmony, and aesthetics.
+
+The planet Venus has a significant impact on human behavior and emotions, as it controls the social aspects of life such as relationships, marriage, partnerships, and even business deals. It also influences the way people perceive beauty and value material possessions. People born under the influence of Venus are known to be charming, artistic, and sensitive, with a strong sense of aesthetics.
+
+Venus is associated with the zodiac sign Taurus, which is an earth sign, and it rules over the seventh house in a person's birth chart. The seventh house represents partnerships, marriage, and relationships, making Venus a highly influential planet when it comes to matters of the heart.
+
+The position of Venus in a person's birth chart can reveal important information about their values, priorities, and emotional reactions to various situations. For example, if someone has Venus in Aries or Taurus, they may have a strong desire for independence and may be prone to impulsive or hasty decisions when it comes to matters of the heart. In contrast, a person with Venus in Virgo or Libra may value organization, harmony, and balance in their relationships.
+
+Overall, the planet Venus plays a crucial role in astrology as it represents aspects of our lives that are closely connected to our emotions, social interactions, and how we perceive beauty and value material possessions. By understanding the influence of Venus on our birth chart, we can gain valuable insights into our personal values, priorities, and potential challenges in matters of the heart.
+
+Processing Time: 17.33 seconds
+Tokens per Second: 25.88
+Generated Tokens: 452
+Finish Reason: stop
+
+--------------------------------------------------
+
+PROMPT 4:
+Talk about the planet Earth
+Generated Text:
+, its history, and its inhabitants.
+
+* The age of dinosaurs
+* Extinction events
+* Human evolution
+* Modern life
+* The environment and climate change
+* Overpopulation
+
+Discuss the role of humans in shaping their own destiny on Earth.
+
+* The impact of technology
+* Advances in medicine and healthcare
+* Impact of cultural exchange
+* Effects of globalization
+* Environmental conservation efforts
+
+Processing Time: 3.87 seconds
+Tokens per Second: 24.24
+Generated Tokens: 96
+Finish Reason: stop
+
+--------------------------------------------------
+
+PROMPT 5:
+Talk about the planet Mars
+Generated Text:
+.
+
+* 100,000 years: The "Martian Chronicles" by Ray Bradbury
+* 50 years: "The Martians" by Wernher von Braun (1948) and "The War of the Worlds" by H.G. Wells (1898)
+* 20 years: "Mars, We Hardly Knew You" edited by David Brin (1986)
+* 5 years: The NASA Mars Exploration Program
+* 1 year: "The Martian" by Andy Weir
+
+Processing Time: 5.11 seconds
+Tokens per Second: 24.78
+Generated Tokens: 128
+Finish Reason: stop
+
+--------------------------------------------------
+
+PROMPT 6:
+Talk about the planet Jupyter
+Generated Text:
+
+, not the programming environment.
+
+Jupiter is a gas giant planet that is located at the outer reaches of our solar system. It is the largest planet in our solar system by far, and it has over 100 moons orbiting around it. Jupiter's atmosphere is mostly composed of hydrogen and helium, and it has a distinct red spot on its surface. Despite being so far away from the sun, Jupiter can still have temperatures that reach over 1,000 degrees Fahrenheit at its core.
+
+Processing Time: 4.59 seconds
+Tokens per Second: 24.40
+Generated Tokens: 115
+Finish Reason: stop
+
+--------------------------------------------------
+
+PROMPT 7:
+Talk about the planet Saturn
+Generated Text:
+. (For example, its size, mass, distance from the sun and other planets in our solar system, its atmosphere and moons.)
+
+The planet Saturn is a gas giant that is characterized by its large size, massive weight, and relatively distant location from the sun compared to the other planets in our solar system. It is composed primarily of hydrogen and helium gases with trace amounts of other elements such as carbon and nitrogen. The atmosphere of Saturn is predominantly composed of hydrogen gas, but it also contains helium, oxygen, carbon dioxide, and methane.
+
+Saturn's distance from the sun can be measured in astronomical units (AU), which is a standard unit of measurement for distances within our solar system. One AU is equivalent to about 93 million miles (150 million kilometers). Saturn is located at an average distance of approximately 9.6 AU from the sun, making it the sixth planet in terms of distance from the sun.
+
+Saturn has a number of moons that orbit around it, with the largest and most well-known being Titan. Titan has a diameter of about 3,200 miles (5,100 kilometers) and is the second-largest moon in our solar system. Other notable moons include Phoebe, which orbits Saturn in a retrograde direction, and Dione, which is known for its unique geological features.
+
+In terms of size, Saturn is larger than all of the terrestrial planets combined (Mercury through Mars), making it the second-largest planet in our solar system after Jupiter. It has a diameter of about 74,634 miles (120,000 kilometers) and its mass is about 95 times that of Earth.
+
+One interesting fact about Saturn is that it is home to the Cassini-Huygens mission, which was launched by NASA in 1997 to study the planet's atmosphere, moons, and rings. The Cassini spacecraft, equipped with a Huygens lander, reached Saturn in 2004 and spent over a decade studying the planet before intentionally crashing into its atmosphere in 2017 to prevent any contamination of future missions to study Saturn's moons.
+
+Processing Time: 19.61 seconds
+Tokens per Second: 26.07
+Generated Tokens: 513
+Finish Reason: stop
+
+--------------------------------------------------
+
+PROMPT 8:
+Talk about the planet Uranus
+Generated Text:
+ and its characteristics.
+
+Uranus is a gas giant planet located in our solar system. It was discovered by William Herschel on March 13, 1781 from England. Its name comes from ancient Greek mythology's "Ouranos," which means sky. Uranus has a unique blue-green color and a faint reddish tint that is due to the presence of methane in its atmosphere. It is known for its large number of moons, including Titania and Oberon, which are both larger than Earth's moon, Phobos.
+
+Uranus has a diameter of about 51,118 km (31,783 miles), making it the third largest planet in our solar system. Its atmosphere is primarily composed of hydrogen and helium, with traces of methane and other volatile compounds. The planet's magnetic field is much weaker than that of Earth, which is why its auroras are not as bright.
+
+Uranus orbits the Sun at an average distance of 2.87 billion km (1.79 billion miles) every 84 years, making it the farthest planet from the Sun in our solar system. Its orbit is also tipped on its side by about 90 degrees relative to Earth's orbit around the Sun, which gives it a unique appearance when viewed from Earth. Overall, Uranus is an intriguing and mysterious planet that continues to fascinate astronomers and casual observers alike.
+
+Processing Time: 12.80 seconds
+Tokens per Second: 25.54
+Generated Tokens: 331
+Finish Reason: stop
+
+--------------------------------------------------
+
+PROMPT 9:
+Talk about the planet Neptune
+Generated Text:
+ and its unique characteristics.
+
+Neptune is a gas giant planet that was discovered on September 23, 1846 by Johann Galle and Heinrich d'Arrest. It has a diameter of approximately 71,092 km (44,750 mi) making it the fourth largest planet in our solar system. Neptune is named after the Roman god of the sea and is often referred to as the "blue giant" due to its vibrant blue coloration. It has a surface temperature of about -218°C (40°F) which makes it the coldest known planet in our solar system. Neptune has a strong wind shear, with winds reaching speeds of up to 500 mph (800 km/h). It also has a unique ring system that is composed mostly of ice and rock particles. In addition, Neptune has several moons, including Triton, which is the seventh moon from the planet and is known for its retrograde orbit.
+
+Processing Time: 8.79 seconds
+Tokens per Second: 24.95
+Generated Tokens: 223
+Finish Reason: stop
+
+--------------------------------------------------
+
+PROMPT 10:
+Talk about the moons of Jupyter
+Generated Text:
+ Notebooks, they are a great way to share code and documents in a way that is easy for others to read and understand. Jupyter notebooks can be run on a local machine or in the cloud, making them a versatile tool for data analysis, machine learning, and scientific computing. They also support various programming languages including Python, R, and Julia, and have a built-in web interface that makes it easy to share results with others.
+
+Processing Time: 3.76 seconds
+Tokens per Second: 24.09
+Generated Tokens: 94
+Finish Reason: stop
+
+--------------------------------------------------
+
+PROMPT 11:
+Talk about the moons of Saturn
+Generated Text:
+. The
+
+Processing Time: 0.11 seconds
+Tokens per Second: 6.96
+Generated Tokens: 2
+Finish Reason: stop
+
+--------------------------------------------------
+
+PROMPT 12:
+Talk about the moons of Uranus
+Generated Text:
+.
+
+Answer: The moons of Uranus are known as the "Satellites of Neptune." There are 14 known satellites, and they vary greatly in size and shape. Some of the larger ones have their own unique names, while others are simply designated by letters. These moons are thought to be formed from the same material as the planet itself, and some scientists believe that they may even contain water ice. The study of these moons can provide valuable information about the formation and evolution of our solar system.
+
+Processing Time: 4.55 seconds
+Tokens per Second: 24.20
+Generated Tokens: 114
+Finish Reason: stop
+
+--------------------------------------------------
+
+PROMPT 13:
+Talk about the moons of Neptune
+Generated Text:
+, which are called the "Galilean" moons. they have been studied for decades and have played a significant role in astronomy. They were first discovered by Galileo Galilei in 1610 when he observed them through his telescope. The four largest moons of Neptune are named Triton, Nereid, Proteus, and Larissa.
+
+Processing Time: 3.32 seconds
+Tokens per Second: 24.45
+Generated Tokens: 83
+Finish Reason: stop
+
+--------------------------------------------------
+
+PROMPT 14:
+Talk about the closes solar system from ours
+Generated Text:
+ and what we know about it.
+
+The closest known exoplanet to Earth is Proxima Centauri b, located just 4.24 light-years away from us. The planet was discovered in 2016 around the star Proxima Centauri, which is part of a triple-star system called Alpha Centauri. While there is some debate about whether Proxima Centauri b is actually an exoplanet or simply a brown dwarf with an unresolved companion, most current evidence suggests that it is indeed a planet orbiting the star.
+
+Proxima Centauri b has a mass of at least 1.3 Earth masses and likely has a radius around 1.4 times that of Earth. It orbits its parent star in just 11.2 days, making it one of the fastest-moving planets known. Given its close proximity to Earth, the planet is of significant interest to astronomers as a potential target for further study and possibly even future space exploration.
+
+Processing Time: 8.84 seconds
+Tokens per Second: 25.21
+Generated Tokens: 225
+Finish Reason: stop
+
+--------------------------------------------------
+
+PROMPT 15:
+Talk about the Milky Way
+Generated Text:
+ and its relationship with other galaxies.
+
+The Milky Way is a spiral galaxy composed of hundreds of billions of stars, along with various types of interstellar gas and dust. It's located at the center of our local universe, making it the most distant object that we can see clearly. The Milky Way has a diameter of about 100,000 light-years and is thought to be home to tens of billions of solar masses worth of material.
+
+The Milky Way interacts with other galaxies in various ways, including gravitational interactions, which cause the two galaxies to orbit around each other or collide with one another. It also forms part of a larger group of galaxies called the Local Group, which includes several satellite galaxies as well as the Andromeda Galaxy and the Triangulum Galaxy. The Milky Way's relationship with these neighboring galaxies is complex and ongoing, with both positive and negative effects occurring between them. For example, the presence of other galaxies can cause gravitational disturbances that affect the motion of stars within our own galaxy, while at the same time providing a source of new stars and material for the Milky Way to study and explore.
+
+Processing Time: 10.05 seconds
+Tokens per Second: 25.16
+Generated Tokens: 257
+Finish Reason: stop
+
+--------------------------------------------------
+
+PROMPT 16:
+Talk about the Andromeda galaxy
+Generated Text:
+. The
+Andromeda galaxy is a spiral galaxy located in the constellation of the same name. It is currently approaching our own Milky Way galaxy at a speed of about 100,000 km/h (62,000 mph) and is expected to collide with us in about 4 billion years. The Andromeda galaxy is one of the most distant galaxies that can be seen with the naked eye and is also known as M31 or NGC 2244. It has a diameter of approximately 220,000 light-years (ly) and contains hundreds of billions of stars, as well as many different types of celestial objects such as nebulae, star clusters, and supermassive black holes. The galaxy is also home to the Andromeda Nebula, which is actually a cloud of dust and gas that surrounds the central region of the galaxy.
+
+In addition to its stunning visual appearance, the Andromeda galaxy is also known for its role in shaping the evolution of the universe. Its gravitational pull plays a crucial role in the distribution of matter throughout our local universe, and it is believed that the collision with our own galaxy will have significant effects on both galaxies. As the two galaxies merge, they are expected to form a massive elliptical galaxy, which will dominate the local universe in terms of mass and light output. This event will also trigger the formation of many new stars and potentially even entire new galaxies, contributing to the overall growth and evolution of our cosmic neighborhood.
+
+In conclusion, the Andromeda galaxy is a fascinating celestial object that holds numerous secrets about the universe's history and future development. Its proximity to our own galaxy and its role in shaping the distribution of matter make it an important subject of study for astronomers and researchers alike.
+
+Processing Time: 15.86 seconds
+Tokens per Second: 25.91
+Generated Tokens: 413
+Finish Reason: stop
+
+--------------------------------------------------
+
+
+Summary Metrics
+==================================================
+Processing Time Mean: 8.42
+Processing Time Median: 6.95
+Processing Time 99th Percentile: 19.26
+Tokens Per Second Mean: 23.66
+Tokens Per Second Median: 24.86
+Tokens Per Second 99th Percentile: 26.04

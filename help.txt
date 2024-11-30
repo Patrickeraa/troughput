@@ -1,0 +1,17 @@
+scp -i interns.pem -r /home/patrick/CodeDepot/troughput paraujo@209.20.158.4:/home/paraujo
+
+pip install -U "huggingface_hub[cli]"
+set CMAKE_ARGS="-DLLAMA_CUBLAS=on" && set FORCE_CMAKE=1 && pip install --no-cache-dir llama-cpp-python==0.2.90 --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu123
+
+
+scp -i interns.pem -r /home/patrick/CodeDepot/troughput paraujo@209.20.158.4:/home/paraujo
+
+
+uvicorn main:app --host 0.0.0.0 --port 8050
+
+
+docker compose up -d --build --force-recreate
+
+http://server:8050
+
+scp -i interns.pem -r paraujo@209.20.158.4:/home/paraujo/troughput/results /home/patrick/CodeDepot/troughput
